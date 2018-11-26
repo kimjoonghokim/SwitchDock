@@ -1,0 +1,2 @@
+# SwitchDock
+Currently working on a dock "shield" for the Insignia Nintendo Switch dock. This code is just the Arduino code needed for the RGB lighting effects. Coded with the Arduino Nano in mind, with the use of 4 standard 6x6mm push buttons, limit switch actuation, and WS2812B individually addressable LED strips. Currently planning on implementing at least 8 different lighting effects, with the ability to save your favourite one for faster navigation. Full STL files. parts list, and wiring diagram will be made available on my Thingiverse when the project is completed.
